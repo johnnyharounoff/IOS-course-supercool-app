@@ -9,6 +9,8 @@
 #import "ViewController.h"
 
 @interface ViewController ()
+@property (weak, nonatomic) IBOutlet UIImageView *coolLogo;
+                            @IBOutlet weak var coolBG: UIImage!
 
 @end
 
